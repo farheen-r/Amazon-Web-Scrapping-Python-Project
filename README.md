@@ -1,4 +1,4 @@
-# Amazon Price Tracker
+# Amazon Web Scrapping & Price Tracker 
 
 This project is an Amazon Web Scraper built in Python that tracks product prices and stores the data in a CSV file. It can be used to monitor price changes over time for specific Amazon products.
 
